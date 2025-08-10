@@ -1,5 +1,7 @@
 # History Republic
 
+[![Download on the App Store](https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us)](https://apps.apple.com/us/app/history-republic/id6748970649)
+
 **History Republic** is a mobile app built with SwiftUI that brings the past to life by showcasing influential historical figures and their legacies.
 <div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://i.postimg.cc/HktNjNj4/homenew.png" alt="map" width="200">
