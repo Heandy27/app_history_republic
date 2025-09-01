@@ -36,6 +36,8 @@
   - **Use Cases**
   - **Network services**
   - **ViewModels**
+- **Internationalization & Localization:** Supports **English** and **Spanish** with `Localizable.strings`.
+- **Dark & Light Mode:** Full support for system appearance preferences.
 
 ---
 
