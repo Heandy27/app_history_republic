@@ -77,6 +77,8 @@ The project includes unit tests for:
   - **Network Services:** Testing API calls and network behavior (mocked).
   - **ViewModels:** Verifying state changes and output bindings.
 
+🌍 Website: https://historyrepublic.com/
+
 <hr></hr>
 Thank you for reviewing my app. If you want to know more about me or my work, you can find me on these social networks:<br></br>
 
