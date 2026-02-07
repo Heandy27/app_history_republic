@@ -24,7 +24,7 @@
 
 - **Webkit:** Rich, interactive hero detail pages with external links and visual content.
 - **Favorites:** Mark and save your favorite fields for quick access.
-- **Search:** Look up fields by name or location.
+- **Search:** Look up fields by name.
 - **Login:** Basic login system with token-based authentication.
 - **API REST:** Communicates with a backend (built with Vapor) to fetch field data and manage users.
 - **MVVM:** Architecture with clear separation between View, ViewModel, and business logic.
